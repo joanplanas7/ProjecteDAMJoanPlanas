@@ -1,0 +1,33 @@
+#titol{
+    font-size: 50px;
+    color: white;
+    margin-left: 2%;
+    margin-right: 5%;
+    margin-top:0%;
+}
+
+.colorFons{
+    background-color: #024A42;
+}
+
+.text{
+    color: white;
+}
+.imgXarxes{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-inline: 5px;
+}
+
+
+.imatgePerfil{
+    width: 40px;
+    height: 40px;
+    border-radius:150px;
+    margin-top: 5px;
+}

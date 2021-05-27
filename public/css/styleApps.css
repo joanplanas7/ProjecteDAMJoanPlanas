@@ -1,0 +1,32 @@
+.boto{
+    float: right;
+    margin-right: 10px;
+}
+
+
+.botoBuscar{
+margin-left: 10px;
+}
+.icona{
+    width: 30px;
+    height: 30px;
+   
+    margin-left: 1000px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-inline: 5px;
+}
+.puntuacio{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.selectP{
+
+    width: 220px;
+}
+
+.valoracions{
+    background-color: #DDD9D8;
+}
